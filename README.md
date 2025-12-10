@@ -81,5 +81,3 @@ Pull requests are welcome! If you’d like to add more chart examples or improve
 ## 📜 License
 This project is licensed under the MIT License.
 
-
-Would you like me to also **generate screenshot placeholders** (like Markdown image tags) for each chart section so your README looks visually complete when you upload it?
