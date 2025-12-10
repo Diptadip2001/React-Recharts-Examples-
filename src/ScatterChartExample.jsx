@@ -20,7 +20,7 @@ const data = [
 export default function ScatterChartExample() {
     return (
         <>
-            <h1 className="chart">Area Chart</h1>
+            <h1 className="chart">Scatter Chart</h1>
         <div style={{ width: "100%", height: 500 }}>
             <ResponsiveContainer>
                 <ScatterChart>
