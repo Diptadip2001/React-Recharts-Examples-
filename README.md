@@ -1,16 +1,85 @@
-# React + Vite
+# React Recharts Examples 🎨📊
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of chart examples built with **React** and **Recharts**.  
+This project demonstrates how to implement different chart types including Line, Bar, Pie, Radar, Radial Bar, Area, Scatter, and Composed charts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Line Chart
+- Bar Chart
+- Pie Chart
+- Radar Chart
+- Radial Bar Chart
+- Area Chart
+- Scatter Chart
+- Composed Chart
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Structure
+```
+src/
+ ├── App.jsx
+ ├── LineChartExample.jsx
+ ├── BarChartExample.jsx
+ ├── PieChartExample.jsx
+ ├── RadarChartExample.jsx
+ ├── RadialBarChartExample.jsx
+ ├── AreaChartExample.jsx
+ ├── ScatterChartExample.jsx
+ ├── ComposedChartExample.jsx
+ └── ...
+```
 
-## Expanding the ESLint configuration
+Each chart type is placed in its own file for modularity and easy reuse.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/react-recharts-examples.git
+cd react-recharts-examples
+npm install
+```
+
+---
+
+## ▶️ Usage
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser at **http://localhost:5173** (default for Vite).
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots of each chart here for better visualization._
+
+---
+
+## 📚 Technologies Used
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Recharts](https://recharts.org/en-US/)
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome! If you’d like to add more chart examples or improve styling, feel free to fork and submit a PR.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+
+Would you like me to also **generate screenshot placeholders** (like Markdown image tags) for each chart section so your README looks visually complete when you upload it?
